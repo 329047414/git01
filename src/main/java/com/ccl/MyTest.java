@@ -7,5 +7,6 @@ package com.ccl;
 public class MyTest {
     public static void main(String[] args) {
         System.out.println("helloworld");
+        System.out.println("hello,git");
     }
 }
