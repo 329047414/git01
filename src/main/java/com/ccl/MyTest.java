@@ -11,5 +11,6 @@ public class MyTest {
         System.out.println("hello,java");
         System.out.println("hello,JAVAEE");
         System.out.println("hello,JAVAE");
+        System.out.println("push,JAVAE");
     }
 }
