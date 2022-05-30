@@ -10,5 +10,6 @@ public class MyTest {
         System.out.println("hello,git");
         System.out.println("hello,java");
         System.out.println("hello,JAVAEE");
+        System.out.println("hello,JAVAE");
     }
 }
